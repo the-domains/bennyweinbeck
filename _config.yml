@@ -1,0 +1,28 @@
+name: BennyWeinbeck
+favicon: null
+layout_spectrum: 0.7140805644448847
+typography_spectrum: 0.7717278124764562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18647714890539646
+  lightness: 0.12943288148380816
+  saturation: 0.5849381464067847
+  rhythmicContrast: 0.3310702540911734
+purpose: []
