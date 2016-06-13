@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BennyWeinbeck]]></title>
-        <description><![CDATA[BennyWeinbeck]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Benny Weinbeck]]></title>
+        <description><![CDATA[Benny Weinbeck]]></description>
+        <link>https://thegrid.ai/bennyweinbeck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 15:33:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 15:50:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bennyweinbeck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me and my accordion.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/401129b2-5337-46e0-a3fa-513effd01bfb.jpg">]]></description>
+            <link>https://thegrid.ai/bennyweinbeck/me-and-my-accordion/index.html</link>
+            <guid isPermaLink="false">53273884-ecad-4a6f-abcb-6b3ad09f5251</guid>
+            <pubDate>Mon, 13 Jun 2016 15:49:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e573d88c-69d0-4194-a651-f3632e4c47ba.jpg">]]></description>
-            <link>undefinedplaying-the-piano-play-one-note-and-hold-it-listen-to-it-t/index.html</link>
+            <link>https://thegrid.ai/bennyweinbeck/playing-the-piano-play-one-note-and-hold-it-listen-to-it-t/index.html</link>
             <guid isPermaLink="false">1ecbf6bf-5b6d-41b1-96e5-57334849d458</guid>
             <pubDate>Mon, 13 Jun 2016 15:33:35 GMT</pubDate>
         </item>
