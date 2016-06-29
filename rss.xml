@@ -4,7 +4,7 @@
         <description><![CDATA[Benny Weinbeck]]></description>
         <link>https://thegrid.ai/bennyweinbeck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 21:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 19:15:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bennyweinbeck/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[South Pacific Premiere Event]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/bennyweinbeck/playing-the-piano-play-one-note-and-hold-it-listen-to-it-t/index.html</link>
             <guid isPermaLink="false">1ecbf6bf-5b6d-41b1-96e5-57334849d458</guid>
             <pubDate>Mon, 13 Jun 2016 15:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CD projects]]></title>
+            <description><![CDATA[<article><h1>CD projects</h1><p> These are some of the projects I have work done in the past. The most recent is</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a4fa15-d141-4608-b4a9-3c843405365a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a4fa15-d141-4608-b4a9-3c843405365a.jpg</link>
+            <guid isPermaLink="false">eb97fe8c-340c-4f59-ba32-aae24481c748</guid>
+            <pubDate>Wed, 29 Jun 2016 19:15:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
